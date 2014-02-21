@@ -1,0 +1,308 @@
+// !$*UTF8*$!
+{
+	0E3BE6321265953B00E1EB2C /* lengthconvert.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 385}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 526}";
+		};
+	};
+	0E3BE6331265953B00E1EB2C /* lengthconvert.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 2210}}";
+			sepNavSelRange = "{2581, 0}";
+			sepNavVisRange = "{151, 851}";
+			sepNavWindowFrame = "{{15, 81}, {973, 697}}";
+		};
+	};
+	1D3623240D0F684500981E51 /* udaysAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {537, 221}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 327}";
+		};
+	};
+	1D3623250D0F684500981E51 /* udaysAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1170}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 319}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* udays */ = {
+		activeExec = 0;
+		executables = (
+			4F79EF8E12503BCB00AF2CA1 /* udays */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* udaysViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 299}}";
+			sepNavSelRange = "{223, 143}";
+			sepNavVisRange = "{0, 373}";
+			sepNavWindowFrame = "{{15, 301}, {973, 472}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* udaysViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 585}}";
+			sepNavSelRange = "{72, 23}";
+			sepNavVisRange = "{0, 387}";
+			sepNavWindowFrame = "{{38, 280}, {973, 472}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4F79EF8E12503BCB00AF2CA1 /* udays */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* udays */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* udays */,
+		);
+		breakpoints = (
+			4F354CC212528F8F002518CD /* udaysViewController.m:34 */,
+		);
+		codeSenseManager = 4F79EFA512503BD000AF2CA1 /* Code sense */;
+		executables = (
+			4F79EF8E12503BCB00AF2CA1 /* udays */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308715816;
+			PBXWorkspaceStateSaveDate = 308715816;
+		};
+		perUserProjectItems = {
+			4F354D2B1252CED5002518CD /* PBXTextBookmark */ = 4F354D2B1252CED5002518CD /* PBXTextBookmark */;
+			4F354D2C1252CED5002518CD /* PBXTextBookmark */ = 4F354D2C1252CED5002518CD /* PBXTextBookmark */;
+			4F354D2F1252CED5002518CD /* PBXTextBookmark */ = 4F354D2F1252CED5002518CD /* PBXTextBookmark */;
+			4F354D301252CED5002518CD /* PBXTextBookmark */ = 4F354D301252CED5002518CD /* PBXTextBookmark */;
+			4F766E751266A10000D0545B /* PlistBookmark */ = 4F766E751266A10000D0545B /* PlistBookmark */;
+			4F766E761266A10000D0545B /* PBXTextBookmark */ = 4F766E761266A10000D0545B /* PBXTextBookmark */;
+			4F766E781266A10000D0545B /* PBXTextBookmark */ = 4F766E781266A10000D0545B /* PBXTextBookmark */;
+			4F766E981266A14B00D0545B /* PBXTextBookmark */ = 4F766E981266A14B00D0545B /* PBXTextBookmark */;
+			4F7BB99E1252EDDF007F00AF /* PlistBookmark */ = 4F7BB99E1252EDDF007F00AF /* PlistBookmark */;
+			4F95E196126645B2003F04BC /* PBXTextBookmark */ = 4F95E196126645B2003F04BC /* PBXTextBookmark */;
+			4F95E197126645B2003F04BC /* PBXTextBookmark */ = 4F95E197126645B2003F04BC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4F79EFA412503BD000AF2CA1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 200}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 231}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* udays_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {586, 200}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+	4F354CC212528F8F002518CD /* udaysViewController.m:34 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* udaysViewController.m */;
+		functionName = "-shouldAutorotateToInterfaceOrientation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 34;
+		location = udays;
+		modificationTime = 308715668.072337;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	4F354D2B1252CED5002518CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* udaysAppDelegate.m */;
+		name = "udaysAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 319;
+		vrLoc = 0;
+	};
+	4F354D2C1252CED5002518CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* udaysAppDelegate.h */;
+		name = "udaysAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 327;
+		vrLoc = 0;
+	};
+	4F354D2F1252CED5002518CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* udays_Prefix.pch */;
+		name = "udays_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	4F354D301252CED5002518CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 0;
+	};
+	4F766E3712669D1400D0545B /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Settings.bundle/Root.plist";
+		sourceTree = "<absolute>";
+	};
+	4F766E751266A10000D0545B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 4F766E3712669D1400D0545B /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Settings.bundle/Root.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4F766E761266A10000D0545B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E3BE6321265953B00E1EB2C /* lengthconvert.h */;
+		name = "lengthconvert.h: 13";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 526;
+		vrLoc = 0;
+	};
+	4F766E781266A10000D0545B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E3BE6331265953B00E1EB2C /* lengthconvert.m */;
+		name = "lengthconvert.m: 104";
+		rLen = 0;
+		rLoc = 2581;
+		rType = 0;
+		vrLen = 714;
+		vrLoc = 3973;
+	};
+	4F766E981266A14B00D0545B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0E3BE6331265953B00E1EB2C /* lengthconvert.m */;
+		name = "lengthconvert.m: 104";
+		rLen = 0;
+		rLoc = 2581;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 151;
+	};
+	4F79EF8E12503BCB00AF2CA1 /* udays */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = udays;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4F79EFA412503BD000AF2CA1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4F79EFA512503BD000AF2CA1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4F7BB99E1252EDDF007F00AF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* udays-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Bharat/Desktop/udayakanth sripada 813359164/udays-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4F95E196126645B2003F04BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* udaysViewController.h */;
+		name = "udaysViewController.h: 11";
+		rLen = 143;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	4F95E197126645B2003F04BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* udaysViewController.m */;
+		name = "udaysViewController.m: 7";
+		rLen = 23;
+		rLoc = 72;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 0;
+	};
+}

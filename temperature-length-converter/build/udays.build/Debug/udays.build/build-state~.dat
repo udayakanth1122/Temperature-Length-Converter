@@ -1,0 +1,56 @@
+Tudays
+v7
+r1
+cCheck dependencies
+
+N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/MainWindow.xib
+c000000004CA0044A0000000000004E11
+t1285555274
+s19985
+
+N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug/udays.app
+t2
+s0
+
+N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug/udays.app/Contents/Info.plist
+t2
+s0
+
+N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug/udays.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug/udays.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug/udays.app/Contents/Resources/udaysViewController.nib
+t2
+s0
+
+N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udaysViewController.xib
+c000000004CA2BA5A0000000000006902
+t1285732954
+s26882
+
+Nudays-Info.plist
+c000000004CA0044A000000000000038D
+t1285555274
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308646425#308646425#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.1'1(4@58"error: There is no SDK with the name or path 'iphoneos4.1'308646425#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udaysViewController.xib"
+r0
+
+CProcessInfoPlistFile "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug/udays.app/Contents/Info.plist" udays-Info.plist
+r0
+
+CTouch "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug/udays.app"
+r0
+
