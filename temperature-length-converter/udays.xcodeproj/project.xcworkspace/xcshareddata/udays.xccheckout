@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5508ED62-0D39-4608-BC6E-DCC7D5C01674</string>
+	<key>IDESourceControlProjectName</key>
+	<string>udays</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E5A2D9A8-F542-4C14-AF63-31C0D60C511C</key>
+		<string>https://github.com/udayakanth1122/Temperature-Length-Converter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>temperature-length-converter/udays.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E5A2D9A8-F542-4C14-AF63-31C0D60C511C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/udayakanth1122/Temperature-Length-Converter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E5A2D9A8-F542-4C14-AF63-31C0D60C511C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E5A2D9A8-F542-4C14-AF63-31C0D60C511C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Temperature-Length-Converter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
