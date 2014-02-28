@@ -1,1382 +1,0 @@
-Tudays
-v7
-r0
-t308715665.341975
-cCheck dependencies
-cProcessInfoPlistFile "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/Info.plist" udays-Info.plist
-cCompileXIB "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/MainWindow.xib"
-cCompileXIB "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/udaysViewController.xib"
-cCompileXIB "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.xib"
-cCpResource build/Debug-iphonesimulator/udays.app/Settings.bundle Settings.bundle
-cProcessPCH /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-asofksvgvdznszbviecjqgvsmgit/udays_Prefix.pch.gch udays_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays" normal i386
-cGenerateDSYMFile "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app.dSYM" "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays"
-cTouch "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
-c000000004C494D410000000000000132
-t1279872321
-s306
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BFDFE39000000000027C7D0
-t1274936889
-s2607056
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BFDFE7C000000000029D5D0
-t1274936956
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BFDFE6E0000000000001466
-t1274936942
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C0470BB00000000000009CD
-t1275359419
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C0471620000000001D47210
-t1275359586
-s30700048
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
-c000000004C6C30170000000000000110
-t1282158615
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004C5A4DB60000000000295900
-t1280986550
-s2709760
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004C5A4DB0000000000029D580
-t1280986544
-s2741632
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004C5A4DA10000000000001466
-t1280986529
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C6241ED00000000000009CD
-t1281507821
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C6242840000000001E228C0
-t1281507972
-s31598784
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.h
-c000000004CB668AB000000000000020E
-t1287022763
-s526
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.m
-c000000004CB6697E000000000000124F
-t1287022974
-s4687
-i"lengthconvert.h"
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.xib
-c000000004CB60AC2000000000000715A
-t1286998722
-s29018
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.h
-c000000004CB55E220000000000000145
-t1286954530
-s325
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m
-c000000004CA296F300000000000009F5
-t1285723891
-s2549
-i"udaysAppDelegate.h"
-i"udaysViewController.h"
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysViewController.h
-c000000004CA2B6E90000000000000175
-t1285732073
-s373
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysViewController.m
-c000000004CA2B91C000000000000033A
-t1285732636
-s826
-i"udaysViewController.h"
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/MainWindow.xib
-c000000004CB56CDD0000000000007B14
-t1286958301
-s31508
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Settings.bundle
-c000000004CB644790000000000000088
-t1287013497
-s136
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app
-t1287022865
-s306
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app.dSYM
-t1287022865
-s102
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/Info.plist
-t1285555773
-s583
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/MainWindow.nib
-t1286958307
-s1743
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/PkgInfo
-t1285555773
-s8
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/Settings.bundle
-t1287013503
-s136
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/lengthconvert.nib
-t1286998726
-s2598
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays
-t1287022865
-s26716
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udaysViewController.nib
-t1286955671
-s2444
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o
-t1287022865
-s53496
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-t1287014408
-s6328
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList
-c000000004CB648070000000000000234
-t1287014407
-s564
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-t1287014408
-s50200
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-t1287014408
-s40444
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/main.m
-c000000004CA2972500000000000000E7
-t1285723941
-s231
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/udaysViewController.xib
-c000000004CB5627E0000000000006902
-t1286955646
-s26882
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164 2/udays_Prefix.pch
-c000000004CA0044A00000000000000B3
-t1285555274
-s179
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.h
-c000000004CA296FB0000000000000147
-t1285723899
-s327
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.m
-c000000004CA296F300000000000009F5
-t1285723891
-s2549
-i"udaysAppDelegate.h"
-i"udaysViewController.h"
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.h
-c000000004CA2B6E90000000000000175
-t1285732073
-s373
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.m
-c000000004CA2B91C000000000000033A
-t1285732636
-s826
-i"udaysViewController.h"
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/MainWindow.xib
-c000000004CA0044A0000000000004E11
-t1285555274
-s19985
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app
-t1285732957
-s238
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM
-t1285732645
-s102
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/Info.plist
-t1285555773
-s583
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/MainWindow.nib
-t1285555773
-s1677
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/PkgInfo
-t1285555773
-s8
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays
-t1285732645
-s18428
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udaysViewController.nib
-t1285732957
-s4375
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-t1285732077
-s6324
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList
-c000000004CA2B6EC00000000000001A1
-t1285732076
-s417
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-t1285732077
-s47696
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-t1285732645
-s40500
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/main.m
-c000000004CA2972500000000000000E7
-t1285723941
-s231
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/udaysViewController.xib
-c000000004CA2BA5A0000000000006902
-t1285732954
-s26882
-
-N/Users/Bharat/Desktop/udayakanth sripada 813359164/udays_Prefix.pch
-c000000004CA0044A00000000000000B3
-t1285555274
-s179
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udays/Classes/udaysAppDelegate.h
-c000000004CA296FB0000000000000147
-t1285723899
-s327
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udays/Classes/udaysAppDelegate.m
-c000000004CA296F300000000000009F5
-t1285723891
-s2549
-i"udaysAppDelegate.h"
-i"udaysViewController.h"
-
-N/Users/Bharat/Desktop/udays/Classes/udaysViewController.h
-c000000004CA259B20000000000000117
-t1285708210
-s279
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udays/Classes/udaysViewController.m
-c000000004CA2970A00000000000002DD
-t1285723914
-s733
-i"udaysViewController.h"
-
-N/Users/Bharat/Desktop/udays/MainWindow.xib
-c000000004CA0044A0000000000004E11
-t1285555274
-s19985
-
-N/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app
-t1285723958
-s238
-
-N/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app.dSYM
-t1285723958
-s102
-
-N/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/Info.plist
-t1285555773
-s583
-
-N/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/MainWindow.nib
-t1285555773
-s1677
-
-N/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/PkgInfo
-t1285555773
-s8
-
-N/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udays
-t1285723958
-s18104
-
-N/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udaysViewController.nib
-t1285723804
-s4355
-
-N/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-t1285723958
-s6280
-
-N/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList
-c000000004CA0063D000000000000015C
-t1285555773
-s348
-
-N/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-t1285723958
-s47648
-
-N/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-t1285723958
-s39948
-
-N/Users/Bharat/Desktop/udays/main.m
-c000000004CA2972500000000000000E7
-t1285723941
-s231
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Desktop/udays/udaysViewController.xib
-c000000004CA296970000000000006775
-t1285723799
-s26485
-
-N/Users/Bharat/Desktop/udays/udays_Prefix.pch
-c000000004CA0044A00000000000000B3
-t1285555274
-s179
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.h
-c000000004CB63BE70000000000000246
-t1287011303
-s582
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.m
-c000000004CB64743000000000000111F
-t1287014211
-s4383
-i"lengthconvert.h"
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.xib
-c000000004CB60AC2000000000000715A
-t1286998722
-s29018
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.h
-c000000004CB55E220000000000000145
-t1286954530
-s325
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m
-c000000004CA296F300000000000009F5
-t1285723891
-s2549
-i"udaysAppDelegate.h"
-i"udaysViewController.h"
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysViewController.h
-c000000004CA2B6E90000000000000175
-t1285732073
-s373
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysViewController.m
-c000000004CA2B91C000000000000033A
-t1285732636
-s826
-i"udaysViewController.h"
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/MainWindow.xib
-c000000004CB56CDD0000000000007B14
-t1286958301
-s31508
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Settings.bundle
-c000000004CB644790000000000000088
-t1287013497
-s136
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app
-t1287014084
-s306
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app.dSYM
-t1287014084
-s102
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/Info.plist
-t1285555773
-s583
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/MainWindow.nib
-t1286958307
-s1743
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/PkgInfo
-t1285555773
-s8
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/Settings.bundle
-t1287013503
-s136
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/lengthconvert.nib
-t1286998726
-s2598
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays
-t1287014084
-s26732
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udaysViewController.nib
-t1286955671
-s2444
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o
-t1287014084
-s52896
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-t1286988253
-s6332
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList
-c000000004CB5E1DC000000000000023C
-t1286988252
-s572
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-t1286988253
-s50204
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-t1286988253
-s40452
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/main.m
-c000000004CA2972500000000000000E7
-t1285723941
-s231
-i<UIKit/UIKit.h>
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/udaysViewController.xib
-c000000004CB5627E0000000000006902
-t1286955646
-s26882
-
-N/Users/Bharat/Downloads/udayakanth sripada 813359164 2/udays_Prefix.pch
-c000000004CA0044A00000000000000B3
-t1285555274
-s179
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/lengthconvert.h
-c000000004CB56BE900000000000000EE
-t1286958057
-s238
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/lengthconvert.m
-c000000004CB5714400000000000008B7
-t1286959428
-s2231
-i"lengthconvert.h"
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/lengthconvert.xib
-c000000004CB571C200000000000059E4
-t1286959554
-s23012
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.h
-c000000004CB55E220000000000000145
-t1286954530
-s325
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.m
-c000000004CA296F300000000000009F5
-t1285723891
-s2549
-i"udaysAppDelegate.h"
-i"udaysViewController.h"
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.h
-c000000004CA2B6E90000000000000175
-t1285732073
-s373
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.m
-c000000004CA2B91C000000000000033A
-t1285732636
-s826
-i"udaysViewController.h"
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/MainWindow.xib
-c000000004CB56CDD0000000000007B14
-t1286958301
-s31508
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app
-t1286959594
-s272
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM
-t1286959452
-s102
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/Info.plist
-t1285555773
-s583
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/MainWindow.nib
-t1286958307
-s1743
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/PkgInfo
-t1285555773
-s8
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/lengthconvert.nib
-t1286959594
-s2088
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays
-t1286959452
-s24872
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udaysViewController.nib
-t1286955671
-s2444
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o
-t1286959452
-s41532
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-t1286953649
-s6376
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList
-c000000004CB55F4F0000000000000290
-t1286954831
-s656
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-t1286954831
-s50244
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-t1286953649
-s40492
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/main.m
-c000000004CA2972500000000000000E7
-t1285723941
-s231
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/udaysViewController.xib
-c000000004CB5627E0000000000006902
-t1286955646
-s26882
-
-N/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/udays_Prefix.pch
-c000000004CA0044A00000000000000B3
-t1285555274
-s179
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.h
-c000000004CB56BE900000000000000EE
-t1286958057
-s238
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.m
-c000000004CB5714400000000000008B7
-t1286959428
-s2231
-i"lengthconvert.h"
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.xib
-c000000004CB571C200000000000059E4
-t1286959554
-s23012
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysAppDelegate.h
-c000000004CB55E220000000000000145
-t1286954530
-s325
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysAppDelegate.m
-c000000004CA296F300000000000009F5
-t1285723891
-s2549
-i"udaysAppDelegate.h"
-i"udaysViewController.h"
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysViewController.h
-c000000004CA2B6E90000000000000175
-t1285732073
-s373
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysViewController.m
-c000000004CA2B91C000000000000033A
-t1285732636
-s826
-i"udaysViewController.h"
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/MainWindow.xib
-c000000004CB56CDD0000000000007B14
-t1286958301
-s31508
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app
-t1286959594
-s272
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM
-t1286959452
-s102
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/Info.plist
-t1285555773
-s583
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/MainWindow.nib
-t1286958307
-s1743
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/PkgInfo
-t1285555773
-s8
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/lengthconvert.nib
-t1286959594
-s2088
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays
-t1286959452
-s24872
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udaysViewController.nib
-t1286955671
-s2444
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o
-t1286959452
-s41532
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-t1286953649
-s6376
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList
-c000000004CB55F4F0000000000000290
-t1286954831
-s656
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-t1286954831
-s50244
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-t1286953649
-s40492
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/main.m
-c000000004CA2972500000000000000E7
-t1285723941
-s231
-i<UIKit/UIKit.h>
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udaysViewController.xib
-c000000004CB5627E0000000000006902
-t1286955646
-s26882
-
-N/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udays_Prefix.pch
-c000000004CA0044A00000000000000B3
-t1285555274
-s179
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-ahkbjfqogihltibbzkwytikxdqex/udays_Prefix.pch.gch
-t1286988253
-s15211536
-
-N/var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-asofksvgvdznszbviecjqgvsmgit/udays_Prefix.pch.gch
-t1287014407
-s15211536
-
-N/var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-dfukucjugmpimxftzwemsiimlzmv/udays_Prefix.pch.gch
-t1285555774
-s15211536
-
-N/var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-gtzulgmfejvgwmhaoptcrzlfkmxa/udays_Prefix.pch.gch
-t1285732077
-s15211536
-
-N/var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-fihxnwayrtjmawfnnlindgzvfkka/udays_Prefix.pch.gch
-t1286953649
-s15232016
-
-N/var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-gtmneqmuwxegpsbwcxwnfpbvnvpm/udays_Prefix.pch.gch
-t2
-s0
-
-Nudays-Info.plist
-c000000004CA0044A000000000000038D
-t1285555274
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies308715665#308715665#0(0"0(0#1#0"8614744416#0"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308715665.188434
-e308715665.297585
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o
-x/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@84"Compile /Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.m308715665#308715665#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#76"/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.m8616837088#2117"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-asofksvgvdznszbviecjqgvsmgit/udays_Prefix.pch -c "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.m" -o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308706884.639745
-e308706884.903721
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o
-x/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@86"Compile /Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.m308706884#308706884#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#78"/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.m8615068928#2139"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-ahkbjfqogihltibbzkwytikxdqex/udays_Prefix.pch -c "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.m" -o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/lengthconvert.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308652252.598499
-e308652252.736728
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@107"Compile /Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.m308652252#308652252#0(0"0(0#0#99"/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.m8606442944#2316"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/include" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-fihxnwayrtjmawfnnlindgzvfkka/udays_Prefix.pch -c "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.m" -o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/lengthconvert.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308707208.101173
-e308707208.160392
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-x/Users/Bharat/Desktop/udayakanth sripada 813359164 2/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@67"Compile /Users/Bharat/Desktop/udayakanth sripada 813359164 2/main.m308707208#308707208#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#59"/Users/Bharat/Desktop/udayakanth sripada 813359164 2/main.m8622726848#2091"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-asofksvgvdznszbviecjqgvsmgit/udays_Prefix.pch -c "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/main.m" -o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o "/Users/Bharat/Desktop/udayakanth sripada 813359164/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s307424877.649732
-e307424877.815107
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-x/Users/Bharat/Desktop/udayakanth sripada 813359164/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/Bharat/Desktop/udayakanth sripada 813359164/main.m307424877#307424877#0(0"0(0#0#57"/Users/Bharat/Desktop/udayakanth sripada 813359164/main.m8598540032#2028"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-gtzulgmfejvgwmhaoptcrzlfkmxa/udays_Prefix.pch -c "/Users/Bharat/Desktop/udayakanth sripada 813359164/main.m" -o "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308681053.329116
-e308681053.495134
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-x/Users/Bharat/Downloads/udayakanth sripada 813359164 2/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@69"Compile /Users/Bharat/Downloads/udayakanth sripada 813359164 2/main.m308681053#308681053#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#61"/Users/Bharat/Downloads/udayakanth sripada 813359164 2/main.m8029405159545332736#2113"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-ahkbjfqogihltibbzkwytikxdqex/udays_Prefix.pch -c "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/main.m" -o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308646449.665689
-e308646449.726749
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/main.m308646449#308646449#0(0"0(0#0#82"/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/main.m8602158528#2290"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/include" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-fihxnwayrtjmawfnnlindgzvfkka/udays_Prefix.pch -c "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/main.m" -o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o /Users/Bharat/Desktop/udays/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s307416758.585189
-e307416758.646671
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o
-x/Users/Bharat/Desktop/udays/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@42"Compile /Users/Bharat/Desktop/udays/main.m307416758#307416758#0(0"0(0#0#34"/Users/Bharat/Desktop/udays/main.m8600125056#1753"    cd /Users/Bharat/Desktop/udays    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap -iquote /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap -F/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator -I/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/include -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386 -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-dfukucjugmpimxftzwemsiimlzmv/udays_Prefix.pch -c /Users/Bharat/Desktop/udays/main.m -o /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/main.o0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308707208.102467
-e308707208.203052
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-x/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@87"Compile /Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m308707208#308707208#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#79"/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m8615463488#2123"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-asofksvgvdznszbviecjqgvsmgit/udays_Prefix.pch -c "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m" -o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o "/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s307424877.651156
-e307424877.846605
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-x/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@85"Compile /Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.m307424877#307424877#0(0"0(0#0#77"/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.m8600979264#2060"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-gtzulgmfejvgwmhaoptcrzlfkmxa/udays_Prefix.pch -c "/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.m" -o "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308681053.330906
-e308681053.523638
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-x/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@89"Compile /Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m308681053#308681053#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#81"/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m8603051488#2145"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-ahkbjfqogihltibbzkwytikxdqex/udays_Prefix.pch -c "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysAppDelegate.m" -o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/udaysAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308647631.842914
-e308647631.930726
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@110"Compile /Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysAppDelegate.m308647631#308647631#0(0"0(0#0#102"/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysAppDelegate.m8603661888#2322"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/include" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-fihxnwayrtjmawfnnlindgzvfkka/udays_Prefix.pch -c "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysAppDelegate.m" -o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o /Users/Bharat/Desktop/udays/Classes/udaysAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s307416758.586199
-e307416758.672465
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o
-x/Users/Bharat/Desktop/udays/Classes/udaysAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@62"Compile /Users/Bharat/Desktop/udays/Classes/udaysAppDelegate.m307416758#307416758#0(0"0(0#0#54"/Users/Bharat/Desktop/udays/Classes/udaysAppDelegate.m8617661952#1785"    cd /Users/Bharat/Desktop/udays    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap -iquote /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap -F/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator -I/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/include -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386 -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-dfukucjugmpimxftzwemsiimlzmv/udays_Prefix.pch -c /Users/Bharat/Desktop/udays/Classes/udaysAppDelegate.m -o /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysAppDelegate.o0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308707208.160504
-e308707208.290865
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-x/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@90"Compile /Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysViewController.m308707208#308707208#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#82"/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysViewController.m8590595488#2129"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-asofksvgvdznszbviecjqgvsmgit/udays_Prefix.pch -c "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/udaysViewController.m" -o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o "/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s307425445.658954
-e307425445.723292
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-x/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.m307425445#307425445#0(0"0(0#0#80"/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.m8612393632#2066"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-gtzulgmfejvgwmhaoptcrzlfkmxa/udays_Prefix.pch -c "/Users/Bharat/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.m" -o "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308681053.495249
-e308681053.572406
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-x/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@92"Compile /Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysViewController.m308681053#308681053#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#84"/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysViewController.m8605376544#2151"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-ahkbjfqogihltibbzkwytikxdqex/udays_Prefix.pch -c "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/udaysViewController.m" -o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/udaysViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s308646449.726858
-e308646449.813247
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@113"Compile /Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysViewController.m308646449#308646449#0(0"0(0#0#105"/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysViewController.m8603759488#2328"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/include" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -include /var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-fihxnwayrtjmawfnnlindgzvfkka/udays_Prefix.pch -c "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/udaysViewController.m" -o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o"0#
-
-CCompileC build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o /Users/Bharat/Desktop/udays/Classes/udaysViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s307416758.646772
-e307416758.717203
-r1
-xCompileC
-xbuild/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o
-x/Users/Bharat/Desktop/udays/Classes/udaysViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/Bharat/Desktop/udays/Classes/udaysViewController.m307416758#307416758#0(0"0(0#0#57"/Users/Bharat/Desktop/udays/Classes/udaysViewController.m8617653056#1791"    cd /Users/Bharat/Desktop/udays    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap -iquote /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap -F/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator -I/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/include -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386 -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources -include /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-dfukucjugmpimxftzwemsiimlzmv/udays_Prefix.pch -c /Users/Bharat/Desktop/udays/Classes/udaysViewController.m -o /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udaysViewController.o0#
-
-CCompileXIB "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/Classes/lengthconvert.xib"
-r0
-
-CCompileXIB "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/MainWindow.xib"
-r0
-
-CCompileXIB "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/udaysViewController.xib"
-r0
-
-CCompileXIB "/Users/Bharat/Desktop/udayakanth sripada 813359164/MainWindow.xib"
-r0
-
-CCompileXIB "/Users/Bharat/Desktop/udayakanth sripada 813359164/udaysViewController.xib"
-s307425757.330492
-e307425757.773214
-r1
-xCompileXIB
-x/Users/Bharat/Desktop/udayakanth sripada 813359164/udaysViewController.xib
-lSLF07#2@34"CompileXIB udaysViewController.xib307425757#307425757#0(0"0(0#0#74"/Users/Bharat/Desktop/udayakanth sripada 813359164/udaysViewController.xib31244220638101620#628"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udaysViewController.nib" "/Users/Bharat/Desktop/udayakanth sripada 813359164/udaysViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CCompileXIB "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.xib"
-s308691526.226867
-e308691526.672888
-r1
-xCompileXIB
-x/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.xib
-lSLF07#2@36"CompileXIB Classes/lengthconvert.xib308691526#308691526#0(0"0(0#0#80"/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.xib8612636544#636"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/lengthconvert.nib" "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Classes/lengthconvert.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/MainWindow.xib"
-r0
-
-CCompileXIB "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/udaysViewController.xib"
-r0
-
-CCompileXIB "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/Classes/lengthconvert.xib"
-r0
-
-CCompileXIB "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/MainWindow.xib"
-r0
-
-CCompileXIB "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/udaysViewController.xib"
-r0
-
-CCompileXIB "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.xib"
-s308652393.817143
-e308652394.262123
-r1
-xCompileXIB
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.xib
-lSLF07#2@36"CompileXIB Classes/lengthconvert.xib308652393#308652394#0(0"0(0#0#101"/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.xib8613728224#699"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/lengthconvert.nib" "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/Classes/lengthconvert.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/MainWindow.xib"
-s308651107.068970
-e308651107.529993
-r1
-xCompileXIB
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib308651107#308651107#0(0"0(0#0#90"/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/MainWindow.xib8608268224#685"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/MainWindow.nib" "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udaysViewController.xib"
-s308648471.378073
-e308648471.899976
-r1
-xCompileXIB
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udaysViewController.xib
-lSLF07#2@34"CompileXIB udaysViewController.xib308648471#308648471#0(0"0(0#0#99"/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udaysViewController.xib8613753824#703"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udaysViewController.nib" "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udaysViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB /Users/Bharat/Desktop/udays/MainWindow.xib
-s307248573.223940
-e307248573.676674
-r1
-xCompileXIB
-x/Users/Bharat/Desktop/udays/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib307248573#307248573#0(0"0(0#0#42"/Users/Bharat/Desktop/udays/MainWindow.xib8602608672#535"    cd /Users/Bharat/Desktop/udays    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/MainWindow.nib /Users/Bharat/Desktop/udays/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CCompileXIB /Users/Bharat/Desktop/udays/udaysViewController.xib
-s307416604.021487
-e307416604.455952
-r1
-xCompileXIB
-x/Users/Bharat/Desktop/udays/udaysViewController.xib
-lSLF07#2@34"CompileXIB udaysViewController.xib307416604#307416604#0(0"0(0#0#51"/Users/Bharat/Desktop/udays/udaysViewController.xib8615433184#553"    cd /Users/Bharat/Desktop/udays    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udaysViewController.nib /Users/Bharat/Desktop/udays/udaysViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CCpResource build/Debug-iphonesimulator/udays.app/Settings.bundle Settings.bundle
-s308706303.697994
-e308706303.708132
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/udays.app/Settings.bundle
-xSettings.bundle
-lSLF07#2@20"Copy Settings.bundle308706303#308706303#0(0"0(0#0#70"/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Settings.bundle8616947328#511"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/Settings.bundle" "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app"0#
-
-CGenerateDSYMFile "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app.dSYM" "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays"
-s308715665.322471
-e308715665.339328
-r1
-xGenerateDSYMFile
-x/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app.dSYM
-x/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays
-lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/udays.app.dSYM build/Debug-iphonesimulator/udays.app/udays308715665#308715665#0(0"0(0#0#96"/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays8614717504#425"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays" -o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app.dSYM"0#
-
-CGenerateDSYMFile "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM" "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays"
-s307425445.745754
-e307425445.760607
-r1
-xGenerateDSYMFile
-x/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM
-x/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays
-lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/udays.app.dSYM build/Debug-iphonesimulator/udays.app/udays307425445#307425445#0(0"0(0#0#94"/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays8612644672#419"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays" -o "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM"0#
-
-CGenerateDSYMFile "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app.dSYM" "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays"
-s308706884.931006
-e308706884.947991
-r1
-xGenerateDSYMFile
-x/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app.dSYM
-x/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays
-lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/udays.app.dSYM build/Debug-iphonesimulator/udays.app/udays308706884#308706884#0(0"0(0#0#98"/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays8618206400#431"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays" -o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app.dSYM"0#
-
-CGenerateDSYMFile "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM" "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays"
-r0
-
-CGenerateDSYMFile "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM" "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays"
-s308652252.766450
-e308652252.786183
-r1
-xGenerateDSYMFile
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays
-lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/udays.app.dSYM build/Debug-iphonesimulator/udays.app/udays308652252#308652252#0(0"0(0#0#119"/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays8606504640#494"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays" -o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app.dSYM"0#
-
-CGenerateDSYMFile /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app.dSYM /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udays
-s307416758.749316
-e307416758.764916
-r1
-xGenerateDSYMFile
-x/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app.dSYM
-x/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udays
-lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/udays.app.dSYM build/Debug-iphonesimulator/udays.app/udays307416758#307416758#0(0"0(0#0#71"/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udays8617708032#344"    cd /Users/Bharat/Desktop/udays    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udays -o /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app.dSYM0#
-
-CLd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays" normal i386
-s308715665.297679
-e308715665.322353
-r1
-xLd
-x/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays
-xnormal
-xi386
-lSLF07#2@101"Link /Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays308715665#308715665#0(0"0(0#0#0"8615939712#970"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" -filelist "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays"0#
-
-CLd "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays" normal i386
-s307425445.723384
-e307425445.745661
-r1
-xLd
-x/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays
-xnormal
-xi386
-lSLF07#2@99"Link /Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays307425445#307425445#0(0"0(0#0#0"8611388128#960"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator" -filelist "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays"0#
-
-CLd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays" normal i386
-s308706884.903817
-e308706884.930898
-r1
-xLd
-x/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays
-xnormal
-xi386
-lSLF07#2@103"Link /Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays308706884#308706884#0(0"0(0#0#0"8618360096#980"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-F/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" -filelist "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/udays"0#
-
-CLd "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays" normal i386
-r0
-
-CLd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays" normal i386
-s308652252.736834
-e308652252.766345
-r1
-xLd
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays
-xnormal
-xi386
-lSLF07#2@124"Link /Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays308652252#308652252#0(0"0(0#0#0"8613522208#1085"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-F/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator" -filelist "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/udays"0#
-
-CLd /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udays normal i386
-s307416758.717290
-e307416758.749220
-r1
-xLd
-x/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udays
-xnormal
-xi386
-lSLF07#2@76"Link /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udays307416758#307416758#0(0"0(0#0#0"8617708960#835"    cd /Users/Bharat/Desktop/udays    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator -F/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator -filelist /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/Objects-normal/i386/udays.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/udays0#
-
-CProcessInfoPlistFile "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/Info.plist" udays-Info.plist
-r0
-
-CProcessInfoPlistFile "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/Info.plist" udays-Info.plist
-r0
-
-CProcessInfoPlistFile "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app/Info.plist" udays-Info.plist
-r0
-
-CProcessInfoPlistFile "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/Info.plist" udays-Info.plist
-r0
-
-CProcessInfoPlistFile "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app/Info.plist" udays-Info.plist
-r0
-
-CProcessInfoPlistFile /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/Info.plist udays-Info.plist
-s307248573.199845
-e307248573.223841
-r1
-xProcessInfoPlistFile
-x/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/Info.plist
-xudays-Info.plist
-lSLF07#2@24"Process udays-Info.plist307248573#307248573#0(0"0(0#0#44"/Users/Bharat/Desktop/udays/udays-Info.plist32088624093986912#440"    cd /Users/Bharat/Desktop/udays    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility udays-Info.plist -genpkginfo /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app/Info.plist0#
-
-CProcessPCH /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-ahkbjfqogihltibbzkwytikxdqex/udays_Prefix.pch.gch udays_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s308681052.376665
-e308681053.328960
-r1
-xProcessPCH
-x/var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-ahkbjfqogihltibbzkwytikxdqex/udays_Prefix.pch.gch
-xudays_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@27"Precompile udays_Prefix.pch308681052#308681053#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#71"/Users/Bharat/Downloads/udayakanth sripada 813359164 2/udays_Prefix.pch7378429254040778752#1989"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -c "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/udays_Prefix.pch" -o /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-ahkbjfqogihltibbzkwytikxdqex/udays_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-asofksvgvdznszbviecjqgvsmgit/udays_Prefix.pch.gch udays_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s308707207.268630
-e308707208.101019
-r1
-xProcessPCH
-x/var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-asofksvgvdznszbviecjqgvsmgit/udays_Prefix.pch.gch
-xudays_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
-o<command-line>: warning: this is the location of the previous definition
-lSLF07#2@27"Precompile udays_Prefix.pch308707207#308707208#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#69"/Users/Bharat/Desktop/udayakanth sripada 813359164 2/udays_Prefix.pch8616775584#1969"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -c "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/udays_Prefix.pch" -o /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-asofksvgvdznszbviecjqgvsmgit/udays_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-dfukucjugmpimxftzwemsiimlzmv/udays_Prefix.pch.gch udays_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s307248573.718667
-e307248574.752470
-r1
-xProcessPCH
-x/var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-dfukucjugmpimxftzwemsiimlzmv/udays_Prefix.pch.gch
-xudays_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@27"Precompile udays_Prefix.pch307248573#307248574#0(0"0(0#0#44"/Users/Bharat/Desktop/udays/udays_Prefix.pch8603326304#1658"    cd /Users/Bharat/Desktop/udays    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap -iquote /Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap -F/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator -I/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/include -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386 -I/Users/Bharat/Desktop/udays/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources -c /Users/Bharat/Desktop/udays/udays_Prefix.pch -o /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-dfukucjugmpimxftzwemsiimlzmv/udays_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-gtzulgmfejvgwmhaoptcrzlfkmxa/udays_Prefix.pch.gch udays_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s307424876.643709
-e307424877.649584
-r1
-xProcessPCH
-x/var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-gtzulgmfejvgwmhaoptcrzlfkmxa/udays_Prefix.pch.gch
-xudays_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@27"Precompile udays_Prefix.pch307424876#307424877#0(0"0(0#0#67"/Users/Bharat/Desktop/udayakanth sripada 813359164/udays_Prefix.pch8603687744#1908"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/include" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/Bharat/Desktop/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -c "/Users/Bharat/Desktop/udayakanth sripada 813359164/udays_Prefix.pch" -o /var/folders/hN/hN27gPTAGzenr2xIdYlgdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-gtzulgmfejvgwmhaoptcrzlfkmxa/udays_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-fihxnwayrtjmawfnnlindgzvfkka/udays_Prefix.pch.gch udays_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s308646448.909669
-e308646449.665571
-r1
-xProcessPCH
-x/var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-fihxnwayrtjmawfnnlindgzvfkka/udays_Prefix.pch.gch
-xudays_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@27"Precompile udays_Prefix.pch308646448#308646449#0(0"0(0#0#92"/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udays_Prefix.pch7378429254040778752#2145"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-generated-files.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-own-target-headers.hmap" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-all-target-headers.hmap" -iquote "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/udays-project-headers.hmap" "-F/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/include" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources/i386" "-I/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/udays.build/Debug-iphonesimulator/udays.build/DerivedSources" -c "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/udays_Prefix.pch" -o /var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-fihxnwayrtjmawfnnlindgzvfkka/udays_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/s1/s1Oqk7tiEdmMJp4PdD99Qk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/udays_Prefix-gtmneqmuwxegpsbwcxwnfpbvnvpm/udays_Prefix.pch.gch udays_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CTouch "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app"
-s308715665.339416
-e308715665.341936
-r1
-xTouch
-x/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app
-lSLF07#2@96"Touch /Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app308715665#308715665#0(0"0(0#0#0"8614101632#308"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Bharat/Desktop/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app"0#
-
-CTouch "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app"
-s307425757.773833
-e307425757.776433
-r1
-xTouch
-x/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app
-lSLF07#2@94"Touch /Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app307425757#307425757#0(0"0(0#0#0"3546924675549444096#304"    cd "/Users/Bharat/Desktop/udayakanth sripada 813359164"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Bharat/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app"0#
-
-CTouch "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app"
-s308706884.948079
-e308706884.950615
-r1
-xTouch
-x/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app
-lSLF07#2@98"Touch /Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app308706884#308706884#0(0"0(0#0#0"8618123200#312"    cd "/Users/Bharat/Downloads/udayakanth sripada 813359164 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Bharat/Downloads/udayakanth sripada 813359164 2/build/Debug-iphonesimulator/udays.app"0#
-
-CTouch "/Users/sarathchandravarmakeerthipati/Desktop/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app"
-r0
-
-CTouch "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app"
-s308652394.262871
-e308652394.265728
-r1
-xTouch
-x/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app
-lSLF07#2@119"Touch /Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app308652394#308652394#0(0"0(0#0#0"8603110144#354"    cd "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sarathchandravarmakeerthipati/Downloads/udayakanth sripada 813359164/build/Debug-iphonesimulator/udays.app"0#
-
-CTouch /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app
-s307416758.765190
-e307416758.767705
-r1
-xTouch
-x/Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app
-lSLF07#2@71"Touch /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app307416758#307416758#0(0"0(0#0#0"8617390048#254"    cd /Users/Bharat/Desktop/udays    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Bharat/Desktop/udays/build/Debug-iphonesimulator/udays.app0#
-
